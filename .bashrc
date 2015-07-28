@@ -116,7 +116,7 @@ alias gst='php artisan migrate:status'
 #Show the status of each migration
 
 #queue
-alias qfa='php artisan queue:failed
+alias qfa='php artisan queue:failed'
 #List all of the failed queue jobs
 alias qfat='php artisan queue:failed-table'
 #Create a migration for the failed queue jobs database table
